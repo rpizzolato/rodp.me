@@ -1,0 +1,9 @@
+showHero = true
+
+showLatestArticles = true
+latestArticles = 5
+
+showResumeButton = true
+showGithubButton = true
+showLinkedinButton = true
+showYoutubeButton = false

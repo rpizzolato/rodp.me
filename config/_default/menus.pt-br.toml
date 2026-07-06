@@ -1,0 +1,19 @@
+[[main]]
+name = "Início"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "Currículo"
+pageRef = "/resume"
+weight = 2
+
+[[main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 3
+
+[[main]]
+name = "Sobre"
+pageRef = "/about"
+weight = 4

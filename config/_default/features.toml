@@ -1,0 +1,27 @@
+[features]
+
+blog = true
+
+resume = true
+
+about = true
+
+projects = false
+
+certifications = false
+
+lab = false
+
+now = false
+
+contact = false
+
+rss = true
+
+search = true
+
+darkMode = true
+
+readingTime = true
+
+lastUpdated = true
