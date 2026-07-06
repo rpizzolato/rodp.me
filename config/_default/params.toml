@@ -1,0 +1,13 @@
+displayUpdatedDate = true
+
+navbar.displayTitle = true
+
+footer.displayCopyright = true
+
+footer.displayPoweredBy = false
+
+editURL.enable = false
+
+search.enable = true
+
+theme.default = "system"

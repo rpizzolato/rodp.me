@@ -1,0 +1,9 @@
+[en]
+languageName = "English"
+languageCode = "en-US"
+weight = 1
+
+[pt-br]
+languageName = "Português"
+languageCode = "pt-BR"
+weight = 2

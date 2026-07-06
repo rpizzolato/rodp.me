@@ -1,0 +1,16 @@
+baseURL = "https://rodp.me/"
+title = "Rodrigo"
+theme = "hextra"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+enableRobotsTXT = true
+enableGitInfo = true
+
+languageCode = "en-US"
+
+canonifyURLs = false
+
+[pagination]
+pagerSize = 10
