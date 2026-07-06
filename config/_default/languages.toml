@@ -1,9 +1,9 @@
 [en]
-languageName = "English"
-languageCode = "en-US"
+locale = "en-US"
+label = "English"
 weight = 1
 
 [pt-br]
-languageName = "Português"
-languageCode = "pt-BR"
+locale = "pt-BR"
+label = "Português"
 weight = 2
