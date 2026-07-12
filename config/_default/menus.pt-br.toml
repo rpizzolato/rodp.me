@@ -9,8 +9,8 @@ pageRef = "/resume"
 weight = 2
 
 [[main]]
-name = "Blog"
-pageRef = "/blog"
+name = "Artigos"
+pageRef = "/articles"
 weight = 3
 
 [[main]]

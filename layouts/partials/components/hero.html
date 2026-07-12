@@ -5,30 +5,36 @@
 
   <h1>{{ $author.name }}</h1>
 
-  <p>
-    <strong>{{ $author.headline }}</strong>
-  </p>
+  <h2>
+    Infrastructure Engineer
+    <br>
+    <span>Learning Software Engineering</span>
+  </h2>
 
   <p>{{ $author.location }}</p>
 
+  <br>
+
   <p>{{ $author.bio }}</p>
 
-  <p>
+  <br>
+
+  <nav>
 
     <a href="/resume/">Resume</a>
 
-    |
+    •
 
     <a href="/articles/">Articles</a>
 
-    |
+    •
 
     <a href="{{ $social.github }}">GitHub</a>
 
-    |
+    •
 
     <a href="{{ $social.linkedin }}">LinkedIn</a>
 
-  </p>
+  </nav>
 
 </section>
