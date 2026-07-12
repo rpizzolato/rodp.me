@@ -6,26 +6,21 @@
   <h1>{{ $author.name }}</h1>
 
   <h2>
-    Infrastructure Engineer
-    <br>
-    <span>Learning Software Engineering</span>
+    Infrastructure Engineer<br>
+    <span>Building. Learning. Sharing.</span>
   </h2>
 
   <p>{{ $author.location }}</p>
 
-  <br>
-
   <p>{{ $author.bio }}</p>
-
-  <br>
 
   <nav>
 
-    <a href="/resume/">Resume</a>
+    <a href="{{ "resume" | relLangURL }}">Resume</a>
 
     •
 
-    <a href="/articles/">Articles</a>
+    <a href="{{ "articles" | relLangURL }}">Articles</a>
 
     •
 

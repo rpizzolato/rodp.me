@@ -16,6 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/articles/</loc>
+    <lastmod>2026-07-12T15:23:55-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -40,6 +41,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/resume/</loc>
+    <lastmod>2026-07-12T15:23:55-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -52,6 +54,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/pt-br/about/</loc>
+    <lastmod>2026-07-12T15:23:55-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
