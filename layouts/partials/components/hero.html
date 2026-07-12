@@ -1,5 +1,34 @@
-<section>
-  <h1>Hello from Hero 🚀</h1>
+{{ $author := .Site.Data.author }}
+{{ $social := .Site.Data.social }}
 
-  <p>This is our first reusable component.</p>
+<section class="hero">
+
+  <h1>{{ $author.name }}</h1>
+
+  <p>
+    <strong>{{ $author.headline }}</strong>
+  </p>
+
+  <p>{{ $author.location }}</p>
+
+  <p>{{ $author.bio }}</p>
+
+  <p>
+
+    <a href="/resume/">Resume</a>
+
+    |
+
+    <a href="/articles/">Articles</a>
+
+    |
+
+    <a href="{{ $social.github }}">GitHub</a>
+
+    |
+
+    <a href="{{ $social.linkedin }}">LinkedIn</a>
+
+  </p>
+
 </section>
