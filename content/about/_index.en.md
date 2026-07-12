@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-# About
-
 Hi, I'm Rodrigo.
 
 I'm an Infrastructure Engineer based in California, passionate about Linux, networking, automation and building reliable systems.
