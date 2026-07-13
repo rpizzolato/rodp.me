@@ -20,20 +20,18 @@
     color: #666;
 }
 
-.home-search {
-    max-width: 480px;
-    margin: 2rem auto 0;
-}
-
-.home-search .hextra-search-wrapper {
-    width: 100%;
-}
-
-/* Article list (homepage) */
+/* Article list (homepage and /articles) */
 .article-list {
     margin-top: 1rem;
 }
 
 .article-card {
     padding: 1.75rem 0;
-    border-bottom: 1
+    border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+}
+
+.article-card:last-of-type {
+    border-bottom: none;
+}
+
+.article-meta 

@@ -17,4 +17,6 @@ I enjoy building reliable systems, documenting technical knowledge, and sharing 
 
 **Los Angeles, CA · Feb 2026 – Present**
 
-On-site and remote support across multi-client MSP environments (offices, warehouses, retail). Deploy and maintain switches, VLANs, firewalls, and UniFi wireless; confi
+On-site and remote support across multi-client MSP environments (offices, warehouses, retail), providing Tier 1–2 support and leading client-facing IT projects.
+
+- **

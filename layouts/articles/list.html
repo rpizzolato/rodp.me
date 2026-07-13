@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{- .Store.Set "enableFooterSwitches" true -}}
+
+<div class="home-page">
+
+  <header class="home-header">
+
+    <h1>{{ .Title }}</h1>
+
+    {{ with .Content }}
+      <p>{{ . | plainify }}</p>
+    {{ end }}
+
+  </header>
+
+  {{ partial "components/article-list.html" . }}
+
+</div>
+
+{{ end }}

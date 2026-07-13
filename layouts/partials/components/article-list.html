@@ -1,0 +1,47 @@
+<section class="article-list">
+
+  {{ $articles := where site.RegularPages "Section" "articles" }}
+  {{ $paginator := .Paginate $articles }}
+
+  {{ range $paginator.Pages }}
+
+    <article class="article-card">
+
+      <div class="article-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date | time.Format ":date_long" }}
+        </time>
+        {{ with .Params.tags }}
+          <span class="article-tags">
+            {{ range . }}<span class="article-tag">{{ . }}</span>{{ end }}
+          </span>
+        {{ end }}
+      </div>
+
+      <h2>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+
+      <p>{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 220 }}{{ end }}</p>
+
+      <a class="article-readmore" href="{{ .RelPermalink }}">
+        {{ i18n "read_more" | default "Read more →" }}
+      </a>
+
+    </article>
+
+  {{ end }}
+
+  {{ if gt $paginator.TotalPages 1 }}
+    <nav class="home-pagination">
+      {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}">← {{ i18n "newer_posts" | default "Newer" }}</a>
+      {{ end }}
+      <span>{{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}</span>
+      {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}">{{ i18n "older_posts" | default "Older" }} →</a>
+      {{ end }}
+    </nav>
+  {{ end }}
+
+</section>

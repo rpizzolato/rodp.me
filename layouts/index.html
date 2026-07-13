@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{- .Store.Set "enableFooterSwitches" true -}}
+
 <div class="home-page">
 
   <header class="home-header">
@@ -10,5 +12,6 @@
       Infrastructure • Linux • Networking • Automation • Software Engineering
     </p>
 
-    <div class="home-search">
-      {{ partial "search.html" (dic
+  </header>
+
+  {{
