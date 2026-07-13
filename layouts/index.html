@@ -8,15 +8,35 @@
 
     <div class="home-page">
 
-      <header class="home-header">
+      <header class="home-hero">
 
-        <h1>{{ i18n "home_title" | default "Engineering Notes" }}</h1>
+        <p class="hero-kicker">{{ i18n "home_title" | default "Engineering Notes" }}</p>
 
-        <p>
-          Infrastructure • Linux • Networking • Automation • Software Engineering
-        </p>
+        <h1>Rodrigo Pizzolato</h1>
+
+        <p class="hero-role">{{ i18n "hero_role" | default "IT Infrastructure & Networking Specialist" }}</p>
+
+        <p class="hero-location">Los Angeles, CA</p>
+
+        <p class="hero-pitch">{{ i18n "hero_pitch" | default "18+ years building and supporting networks, servers, and cloud environments." }}</p>
+
+        <div class="hero-chips">
+          <span class="hero-chip">LPIC-2</span>
+          <span class="hero-chip">LPIC-1</span>
+          <span class="hero-chip">Azure AZ-900</span>
+          <span class="hero-chip hero-chip-progress">CCNA · {{ i18n "in_progress" | default "in progress" }}</span>
+        </div>
+
+        <div class="hero-actions">
+          <a class="hero-btn hero-btn-primary" href="{{ "resume/" | relLangURL }}">{{ i18n "view_resume" | default "View Resume" }}</a>
+          <a class="hero-btn" href="https://github.com/rpizzolato" target="_blank" rel="noopener">GitHub</a>
+          <a class="hero-btn" href="https://linkedin.com/in/rpizzolato" target="_blank" rel="noopener">LinkedIn</a>
+          <a class="hero-btn" href="https://www.youtube.com/@ropizzolato" target="_blank" rel="noopener">YouTube</a>
+        </div>
 
       </header>
+
+      <h2 class="home-section-title">{{ i18n "latest_articles" | default "Latest Articles" }}</h2>
 
       {{ partial "components/article-list.html" . }}
 

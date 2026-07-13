@@ -7,3 +7,8 @@ older_posts: Older
 # Hextra theme overrides
 copyright: "© 2026 Rodrigo Pizzolato"
 searchPlaceholder: "Search..."
+hero_role: "IT Infrastructure & Networking Specialist"
+hero_pitch: "18+ years building and supporting networks, servers, and cloud environments — currently in an MSP serving multi-site clients across the U.S. Here I document what I build and learn: Linux, networking, Windows, and automation."
+in_progress: "in progress"
+view_resume: "View Resume"
+latest_articles: "Latest Articles"
