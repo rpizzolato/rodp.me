@@ -6,7 +6,7 @@ Hi, I'm Rodrigo.
 
 I'm an Infrastructure Engineer based in California, passionate about Linux, networking, automation and building reliable systems.
 
-After more than 18 years working in IT, I created this website as my public engineering notebook.
+After more than 10 years working in IT, I created this website as my public engineering notebook.
 
 Here I document what I learn, the projects I build and the lessons I collect along the way.
 
