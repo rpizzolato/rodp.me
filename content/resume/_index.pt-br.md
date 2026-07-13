@@ -5,7 +5,7 @@ description: "Experiência profissional, certificações e habilidades técnicas
 
 ## Resumo
 
-Profissional de TI com mais de 18 anos de experiência em infraestrutura de redes, administração de sistemas e suporte técnico, atualmente trabalhando em ambiente MSP na região de Los Angeles, Califórnia. Especializado em redes, Linux, Microsoft 365, virtualização e infraestrutura híbrida — em constante evolução para automação, cloud, DevOps e cibersegurança.
+Profissional de TI com mais de 10 anos de experiência em infraestrutura de redes, administração de sistemas e suporte técnico, atualmente trabalhando em ambiente MSP na região de Los Angeles, Califórnia. Especializado em redes, Linux, Microsoft 365, virtualização e infraestrutura híbrida — em constante evolução para automação, cloud, DevOps e cibersegurança.
 
 Gosto de construir sistemas confiáveis, documentar conhecimento técnico e compartilhar soluções práticas em [artigos](/pt-br/articles/) e [vídeos](https://www.youtube.com/@ropizzolato).
 

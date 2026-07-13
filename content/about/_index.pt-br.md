@@ -6,7 +6,7 @@ Olá, eu sou o Rodrigo.
 
 Sou Engenheiro de Infraestrutura morando na Califórnia, apaixonado por Linux, redes, automação e por construir sistemas confiáveis.
 
-Depois de mais de 18 anos trabalhando com TI, criei este site como meu caderno público de engenharia.
+Depois de mais de 10 anos trabalhando com TI, criei este site como meu caderno público de engenharia.
 
 Aqui eu documento o que aprendo, os projetos que construo e as lições que coleciono pelo caminho.
 
