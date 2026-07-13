@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Pizzolato – Articles</title>
+    <link>http://localhost:1313/articles/</link>
+    <description>Recent content in Articles on Rodrigo Pizzolato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	  <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>WSL Resources from Linux on Windows</title>
+      <link>http://localhost:1313/articles/wsl-resources-from-linux-on-windows/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/wsl-resources-from-linux-on-windows/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Hello World&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,17 +1,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rodrigo Pizzolato – </title>
+    <title>Rodrigo Pizzolato – Rodrigo Pizzolato — Notas de Engenharia</title>
     <link>http://localhost:1313/pt-br/</link>
-    <description>Recent content on Rodrigo Pizzolato</description>
+    <description>Recent content in Rodrigo Pizzolato — Notas de Engenharia on Rodrigo Pizzolato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     
-	  <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-      
-    
-    
-  </channel>
-</rss>
+	  <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="a
