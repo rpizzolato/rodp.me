@@ -4,16 +4,11 @@
 
   <header class="home-header">
 
-    <h1>Engineering Notes</h1>
+    <h1>{{ i18n "home_title" | default "Engineering Notes" }}</h1>
 
     <p>
       Infrastructure • Linux • Networking • Automation • Software Engineering
     </p>
 
-  </header>
-
-  {{ partial "components/latest-articles.html" . }}
-
-</div>
-
-{{ end }}
+    <div class="home-search">
+      {{ partial "search.html" (dic

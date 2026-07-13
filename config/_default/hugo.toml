@@ -3,14 +3,8 @@ title = "Rodrigo Pizzolato"
 theme = "hextra"
 
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+# English at root (rodp.me/about), Portuguese under /pt-br/ (rodp.me/pt-br/about)
+defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = true
-enableGitInfo = true
-
-languageCode = "en-US"
-
-canonifyURLs = false
-
-[pagination]
-pagerSize = 10
+enableGitInfo = tr

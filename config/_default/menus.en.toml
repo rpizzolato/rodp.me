@@ -1,19 +1,22 @@
 [[main]]
 name = "Home"
-url = "/en/"
+pageRef = "/"
 weight = 1
 
 [[main]]
 name = "Resume"
-url = "/en/resume/"
+pageRef = "/resume"
 weight = 2
 
 [[main]]
 name = "Articles"
-url = "/en/articles/"
+pageRef = "/articles"
 weight = 3
 
 [[main]]
 name = "About"
-url = "/en/about/"
+pageRef = "/about"
 weight = 4
+
+[[main]]
+name =
