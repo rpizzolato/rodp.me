@@ -1,7 +1,5 @@
 ---
-title: "WSL Resources from Linux on Windows"
+title: "WSL: Real Linux Inside Your Windows"
 date: 2026-07-12
 draft: false
----
-
-Hello World
+tags: ["wsl", "linux",
