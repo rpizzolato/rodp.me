@@ -1,5 +1,3 @@
 ---
 title: "Currículo"
----
-
-Minha experiência profissional, certificações e habilidades técnicas.
+description: "Experiência profissional, certificações e habilidades técnicas d

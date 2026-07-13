@@ -1,47 +1,20 @@
 ---
 title: "Resume"
+description: "Professional experience, certifications, and technical skills of Rodrigo Pizzolato."
 ---
 
-# Executive Summary
+## Summary
 
-Infrastructure Engineer with 18+ years of experience in IT, specializing in networking, Linux, Microsoft 365, virtualization and enterprise infrastructure.
+IT professional with 18+ years of experience in network infrastructure, systems administration, and technical support, currently working in an MSP environment in the Los Angeles area. Specialized in networking, Linux, Microsoft 365, virtualization, and hybrid infrastructure — and continuously expanding into automation, cloud, DevOps, and cybersecurity.
 
-Currently working in the United States while continuously expanding my expertise in automation, cloud technologies and software engineering.
+I enjoy building reliable systems, documenting technical knowledge, and sharing practical solutions through [articles](/articles/) and [videos](https://www.youtube.com/@ropizzolato).
 
-I enjoy building reliable systems, documenting technical knowledge and sharing practical solutions through articles and videos.
+## Professional Experience
 
----
+{{% steps %}}
 
-# Core Expertise
+### IT Support Specialist — BROAD PC Inc
 
-- Linux Administration
-- Networking (TCP/IP, DNS, DHCP, VLANs)
-- Microsoft 365
-- Microsoft Entra ID
-- Azure
-- Windows Server
-- VMware / Proxmox / Hyper-V
-- PowerShell
-- Bash
-- IT Documentation
+**Los Angeles, CA · Feb 2026 – Present**
 
----
-
-# Current Learning
-
-- LPIC-3
-- Cisco CCNA
-- Microsoft Azure Administrator (AZ-104)
-
----
-
-# Languages
-
-- Portuguese (Native)
-- English (Professional Working Proficiency)
-
----
-
-# Resume (PDF)
-
-Download the latest PDF version of my resume.
+On-site and remote support across multi-client MSP environments (offices, warehouses, retail). Deploy and maintain switches, VLANs, firewalls, and UniFi wireless; confi
