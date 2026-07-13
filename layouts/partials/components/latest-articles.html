@@ -1,0 +1,25 @@
+<section class="latest-articles">
+
+  <h2>Latest Articles</h2>
+
+  {{ range first 5 (where site.RegularPages "Section" "articles") }}
+
+    <article class="article-card">
+
+      <h3>
+        <a href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+      </h3>
+
+      <p>{{ .Summary }}</p>
+
+      <small>
+        {{ .Date.Format "Jan 2, 2006" }}
+      </small>
+
+    </article>
+
+  {{ end }}
+
+</section>

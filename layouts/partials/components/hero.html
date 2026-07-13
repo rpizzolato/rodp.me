@@ -3,33 +3,32 @@
 
 <section class="hero">
 
+  <div class="hero-monogram">
+    RP
+  </div>
+
   <h1>{{ $author.name }}</h1>
 
-  <h2>
-    Infrastructure Engineer<br>
-    <span>Building. Learning. Sharing.</span>
-  </h2>
+  <p class="hero-role">
+    Infrastructure Engineer
+  </p>
 
-  <p>{{ $author.location }}</p>
+  <p class="hero-motto">
+    Building.<br>
+    Learning.<br>
+    Sharing.
+  </p>
 
-  <p>{{ $author.bio }}</p>
+  <p class="hero-location">
+    {{ $author.location }}
+  </p>
 
-  <nav>
+  <p class="hero-description">
+    {{ $author.bio }}
+  </p>
 
-    <a href="{{ "resume" | relLangURL }}">Resume</a>
+  {{ partial "components/buttons.html" . }}
 
-    •
-
-    <a href="{{ "articles" | relLangURL }}">Articles</a>
-
-    •
-
-    <a href="{{ $social.github }}">GitHub</a>
-
-    •
-
-    <a href="{{ $social.linkedin }}">LinkedIn</a>
-
-  </nav>
+  {{ partial "components/social.html" . }}
 
 </section>

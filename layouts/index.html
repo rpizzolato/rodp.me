@@ -1,5 +1,19 @@
 {{ define "main" }}
 
-{{ partial "components/hero.html" . }}
+<div class="home-page">
+
+  <header class="home-header">
+
+    <h1>Engineering Notes</h1>
+
+    <p>
+      Infrastructure • Linux • Networking • Automation • Software Engineering
+    </p>
+
+  </header>
+
+  {{ partial "components/latest-articles.html" . }}
+
+</div>
 
 {{ end }}
