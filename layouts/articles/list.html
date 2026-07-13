@@ -1,20 +1,28 @@
 {{ define "main" }}
 
-{{- .Store.Set "enableFooterSwitches" true -}}
+<div class="hx:mx-auto hx:flex hextra-max-page-width">
 
-<div class="home-page">
+  {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" false) }}
 
-  <header class="home-header">
+  <main id="content" class="hx:w-full hx:min-w-0">
 
-    <h1>{{ .Title }}</h1>
+    <div class="home-page">
 
-    {{ with .Content }}
-      <p>{{ . | plainify }}</p>
-    {{ end }}
+      <header class="home-header">
 
-  </header>
+        <h1>{{ .Title }}</h1>
 
-  {{ partial "components/article-list.html" . }}
+        {{ with .Content }}
+          <p>{{ . | plainify }}</p>
+        {{ end }}
+
+      </header>
+
+      {{ partial "components/article-list.html" . }}
+
+    </div>
+
+  </main>
 
 </div>
 

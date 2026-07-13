@@ -1,20 +1,28 @@
 {{ define "main" }}
 
-{{- .Store.Set "enableFooterSwitches" true -}}
+<div class="hx:mx-auto hx:flex hextra-max-page-width">
 
-<div class="home-page">
+  {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" false) }}
 
-  <header class="home-header">
+  <main id="content" class="hx:w-full hx:min-w-0">
 
-    <h1>{{ i18n "home_title" | default "Engineering Notes" }}</h1>
+    <div class="home-page">
 
-    <p>
-      Infrastructure • Linux • Networking • Automation • Software Engineering
-    </p>
+      <header class="home-header">
 
-  </header>
+        <h1>{{ i18n "home_title" | default "Engineering Notes" }}</h1>
 
-  {{ partial "components/article-list.html" . }}
+        <p>
+          Infrastructure • Linux • Networking • Automation • Software Engineering
+        </p>
+
+      </header>
+
+      {{ partial "components/article-list.html" . }}
+
+    </div>
+
+  </main>
 
 </div>
 
