@@ -19,4 +19,7 @@ pageRef = "/about"
 weight = 4
 
 [[main]]
-name =
+name = "Search"
+weight = 5
+[main.params]
+type = "search"

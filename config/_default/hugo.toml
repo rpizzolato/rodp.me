@@ -7,4 +7,11 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = true
-enableGitInfo = tr
+enableGitInfo = true
+
+languageCode = "en-US"
+
+canonifyURLs = false
+
+[pagination]
+pagerSize = 10

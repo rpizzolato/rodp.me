@@ -4,4 +4,6 @@ read_more: "Read more →"
 newer_posts: Newer
 older_posts: Older
 
-# Hextra theme overrid
+# Hextra theme overrides
+copyright: "© 2026 Rodrigo Pizzolato"
+searchPlaceholder: "Search..."
