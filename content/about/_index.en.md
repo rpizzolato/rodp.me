@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+<img src="/images/avatar.webp" alt="Rodrigo Pizzolato" width="170" height="170" style="border-radius:9999px;margin:1.5rem auto 0;display:block;" />
+
 Hi, I'm Rodrigo.
 
 I'm an Infrastructure Engineer based in California, passionate about Linux, networking, automation and building reliable systems.
@@ -21,3 +23,7 @@ Whether I'm configuring a Proxmox cluster, studying for LPIC-3, exploring Micros
 I also publish videos on my [YouTube channel](https://www.youtube.com/@ropizzolato) — many articles here have a matching video over there.
 
 Thanks for stopping by.
+
+## Contact
+
+The best way to reach me is by email: [contact@rodp.me](mailto:contact@rodp.me). You can also find me on [LinkedIn](https://linkedin.com/in/rpizzolato), [GitHub](https://github.com/rpizzolato), and [YouTube](https://www.youtube.com/@ropizzolato).
