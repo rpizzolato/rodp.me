@@ -11,3 +11,6 @@ editURL.enable = false
 search.enable = true
 
 theme.default = "system"
+
+[analytics.goatCounter]
+code = "rodp"
