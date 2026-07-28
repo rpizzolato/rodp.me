@@ -26,11 +26,15 @@ Suporte presencial e remoto em ambientes MSP multi-cliente (escritórios, armaz�
 - **Servidores e virtualização:** Windows Server 2016–2022 (Active Directory, DNS, DHCP, GPO), hosts Hyper-V, backup e disaster recovery com Synology NAS
 - **Automação:** scripts PowerShell e plataformas RMM (NinjaOne, Tactical RMM) para gerenciamento de patches e monitoramento proativo
 
-### Assistente de TI — PC Tech Solutions LLC
+### Técnico de Campo de TI — PC Tech Solutions LLC
 
-**Torrance, CA · Out 2025 – Abr 2026**
+**Região de Los Angeles, CA · Out 2025 – Atual (por projeto / sob demanda)**
 
-Suporte técnico para ambientes residenciais e pequenas empresas: reparo de hardware, instalação de sistemas operacionais, upgrades de servidores, configuração de switches, VLANs, access points e sistemas de pagamento em rede.
+Técnico de campo sob demanda para projetos de infraestrutura de TI corporativa na região de LA, além de suporte a clientes residenciais e pequenas empresas.
+
+- **Projetos de renovação de parque:** troca completa, em finais de semana, de estações, impressoras, mesas digitalizadoras e terminais POS em concessionárias (Hyundai, Porsche), com organização de cabeamento pós-implantação
+- **Redes:** troca e configuração de switches, roteadores e modems; instalação de cabeamento estruturado para expansão; migração de switches de produção em fabricante aeroespacial (Moog) e migração de link de internet em sites corporativos (Extra Space Storage)
+- **Servidores e varejo:** substituição de componentes de servidores na DirecTV (El Segundo); trocas de POS e pin-pads em redes nacionais de varejo (Trader Joe's, Dollar Tree)
 
 ### Analista de Informática I, Administrador de Redes — UNESP
 
@@ -87,4 +91,4 @@ Faculdade Anhanguera — Piracicaba, SP (2009 – 2012)
 
 ## Currículo (PDF)
 
-[Baixe a versão mais recente do meu currículo em PDF](/files/rodrigo-pizzolato-resume.pdf) (em inglês).
+[Baixe a versão mais recente do meu currículo em PDF](/files/rodrigo-pizzolato-resume-pt-br.pdf). Também disponível [em inglês](/files/rodrigo-pizzolato-resume.pdf).

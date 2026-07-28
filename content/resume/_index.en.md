@@ -26,11 +26,15 @@ On-site and remote support across multi-client MSP environments (offices, wareho
 - **Servers and virtualization:** Windows Server 2016–2022 (Active Directory, DNS, DHCP, GPO), Hyper-V hosts, Synology NAS backup and disaster recovery routines
 - **Automation:** PowerShell scripting and RMM platforms (NinjaOne, Tactical RMM) for patch management and proactive monitoring
 
-### IT Assistant — PC Tech Solutions LLC
+### IT Field Technician — PC Tech Solutions LLC
 
-**Torrance, CA · Oct 2025 – Apr 2026**
+**Los Angeles area, CA · Oct 2025 – Present (project-based / on-call)**
 
-Technical support for residential and small business environments: hardware repair, OS installation, server upgrades, switch/VLAN/access point configuration, and networked payment systems.
+On-call field technician for enterprise IT infrastructure projects across the LA area, alongside support for residential and small-business clients.
+
+- **Hardware refresh projects:** full weekend replacement of workstations, printers, digitizer pads, and POS terminals at automotive dealerships (Hyundai, Porsche), including post-deployment cable management
+- **Networking:** replacement and configuration of switches, routers, and modems; structured cabling installs for network expansion; production switch migration at an aerospace parts manufacturer (Moog) and ISP link migration for enterprise sites (Extra Space Storage)
+- **Servers and retail:** on-site server component replacement at DirecTV (El Segundo); POS and pin-pad hardware swaps for national retail chains (Trader Joe's, Dollar Tree)
 
 ### IT Analyst I, Network Administrator — UNESP (São Paulo State University)
 
