@@ -18,7 +18,7 @@ My goal is simple:
 > Learn.
 > Share.
 
-Whether I'm configuring a Proxmox cluster, studying for LPIC-3, exploring Microsoft 365 or learning Software Engineering, this website is where I organize and share that knowledge.
+Whether I'm configuring a Proxmox cluster, studying for AZ-104, exploring Microsoft 365 or learning Software Engineering, this website is where I organize and share that knowledge.
 
 I also publish videos on my [YouTube channel](https://www.youtube.com/@ropizzolato) — many articles here have a matching video over there.
 
