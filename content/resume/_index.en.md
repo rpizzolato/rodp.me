@@ -54,6 +54,12 @@ Administered and monitored enterprise network environments at a public state uni
 
 Technical support and maintenance for hardware, software, and networks across the municipal school system. Administered more than 3,000 Chromebooks across over 126 schools and maintained over 2,000 IT assets. OS deployment with imaging tools (Clonezilla), local network installation, backup routines, and specialized accessibility tools (Braille printers, screen readers). Supported the computers of a 24/7 municipal educational radio station, coordinating with an external vendor.
 
+### School Secretary — São Pedro City Hall
+
+**São Pedro, Brazil · Feb 2011 – May 2012**
+
+Administrative role at a municipal school: student records, enrollment, attendance, and transfers, plus public service. Also supported the school computer lab and local network, including GNU/Linux multi-terminal workstations and shared printers.
+
 ### IT Support / Intranet Developer — São Paulo State Military Police
 
 **Piracicaba, Brazil · Feb 2008 – Feb 2011**

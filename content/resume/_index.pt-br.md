@@ -54,6 +54,12 @@ Administração e monitoramento de ambientes de rede corporativos em uma univers
 
 Suporte técnico e manutenção de hardware, software e redes na Rede Municipal de Ensino. Administração de mais de 3.000 Chromebooks em mais de 126 escolas e manutenção de mais de 2.000 ativos de TI. Implantação de sistemas com ferramentas de imagem (Clonezilla), instalação de redes locais, rotinas de backup e recursos de acessibilidade (impressoras Braille, leitores de tela). Suporte aos computadores de uma rádio educativa municipal 24/7, em coordenação com fornecedor externo.
 
+### Secretário de Escola — Prefeitura Municipal de São Pedro
+
+**São Pedro, SP · Fev 2011 – Mai 2012**
+
+Função administrativa em escola municipal: prontuários, matrícula, frequência e transferência de alunos, além de atendimento ao público. Também apoiava o laboratório de informática e a rede local, incluindo estações multiterminal GNU/Linux e impressoras compartilhadas.
+
 ### Suporte de TI / Desenvolvedor de Intranet — Polícia Militar do Estado de São Paulo
 
 **Piracicaba, SP · Fev 2008 – Fev 2011**
