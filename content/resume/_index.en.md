@@ -28,9 +28,9 @@ On-site and remote support across multi-client MSP environments (offices, wareho
 
 ### IT Network Analyst (Contract) — FURIA Esports LLC
 
-**Los Angeles area, CA · Dec 2025**
+**Redondo Beach, CA · Dec 2025 – Oct 2026**
 
-Network support for a professional gaming facility: reorganized and labeled LAN cabling, centralized connections on a managed switch, and resolved workstation connectivity issues.
+Occasional on-call network support (one or two visits per month) for a professional gaming facility, until the facility closed: reorganized and labeled LAN cabling, centralized connections on a managed switch, and resolved workstation connectivity issues.
 
 ### IT Assistant (Contract / Part-time) — PC Tech Solutions LLC
 

@@ -28,9 +28,9 @@ Suporte presencial e remoto em ambientes MSP multi-cliente (escritórios, armaz�
 
 ### Analista de Redes de TI (Contrato) — FURIA Esports LLC
 
-**Região de Los Angeles, CA · Dez 2025**
+**Redondo Beach, CA · Dez 2025 – Out 2026**
 
-Suporte de rede para um centro de treinamento de e-sports: reorganização e identificação do cabeamento LAN, centralização das conexões em um switch gerenciável e resolução de problemas de conectividade das estações.
+Suporte de rede eventual, sob demanda (uma ou duas visitas por mês), para um centro de treinamento de e-sports, até o fechamento da unidade: reorganização e identificação do cabeamento LAN, centralização das conexões em um switch gerenciável e resolução de problemas de conectividade das estações.
 
 ### Assistente de TI (Contrato / Meio Período) — PC Tech Solutions LLC
 
