@@ -34,7 +34,7 @@ Occasional on-call network support (one or two visits per month) for a professio
 
 ### IT Assistant (Contract / Part-time) — PC Tech Solutions LLC
 
-**Los Angeles area, CA · Oct 2025 – Feb 2026**
+**Greater Los Angeles, CA (Los Angeles, Long Beach, San Pedro, and the Valley: Thousand Oaks, Encino, Sherman Oaks) · Oct 2025 – Feb 2026**
 
 On-call field work on enterprise IT infrastructure projects across the LA area, alongside support for residential and small-business clients.
 

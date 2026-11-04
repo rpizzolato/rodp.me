@@ -34,7 +34,7 @@ Suporte de rede eventual, sob demanda (uma ou duas visitas por mês), para um ce
 
 ### Assistente de TI (Contrato / Meio Período) — PC Tech Solutions LLC
 
-**Região de Los Angeles, CA · Out 2025 – Fev 2026**
+**Grande Los Angeles, CA (Los Angeles, Long Beach, San Pedro e região do Valley: Thousand Oaks, Encino, Sherman Oaks) · Out 2025 – Fev 2026**
 
 Trabalho de campo sob demanda em projetos de infraestrutura de TI corporativa na região de LA, além de suporte a clientes residenciais e pequenas empresas.
 
