@@ -80,9 +80,8 @@ Apoio à coleta de dados em campo em uma iniciativa comunitária de grande escal
 | LPIC-2 — Linux Engineer | Linux Professional Institute |
 | LPIC-1 — System Administrator | Linux Professional Institute |
 | Linux Essentials | Linux Professional Institute |
+| Microsoft Certified: Azure Administrator Associate (AZ-104) | Microsoft |
 | Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft |
-
-**Em andamento:** Microsoft Azure Administrator (AZ-104)
 
 ## Formação Acadêmica
 

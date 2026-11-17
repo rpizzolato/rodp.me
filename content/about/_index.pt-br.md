@@ -18,7 +18,7 @@ Meu objetivo é simples:
 > Aprender.
 > Compartilhar.
 
-Seja configurando um cluster Proxmox, estudando para a AZ-104, explorando o Microsoft 365 ou aprendendo Engenharia de Software, este site é onde organizo e compartilho esse conhecimento.
+Seja configurando um cluster Proxmox, administrando recursos no Azure, explorando o Microsoft 365 ou aprendendo Engenharia de Software, este site é onde organizo e compartilho esse conhecimento.
 
 Também publico vídeos no meu [canal do YouTube](https://www.youtube.com/@ropizzolato) — muitos artigos daqui têm um vídeo correspondente por lá.
 

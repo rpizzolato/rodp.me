@@ -80,9 +80,8 @@ Supported field data collection as part of a large-scale, government-led communi
 | LPIC-2 — Linux Engineer | Linux Professional Institute |
 | LPIC-1 — System Administrator | Linux Professional Institute |
 | Linux Essentials | Linux Professional Institute |
+| Microsoft Certified: Azure Administrator Associate (AZ-104) | Microsoft |
 | Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft |
-
-**Currently pursuing:** Microsoft Azure Administrator (AZ-104)
 
 ## Education
 
